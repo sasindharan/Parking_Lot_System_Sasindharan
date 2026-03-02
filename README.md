@@ -11,6 +11,8 @@ and trucks.
 the vehicle exits.
 5. The system should track the availability of parking spots and provide real-time 
 information to customers.
+
+
 Classes, Interfaces and Enumerations
 1. The ParkingLot class follows the Singleton pattern to ensure only one instance of the 
 parking lot exists. It maintains a list of levels and provides methods to park and 
